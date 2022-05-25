@@ -1,1 +1,16 @@
+[example]
+tileset = ground.png
+map = ..........
+      .#####.##.
+      .#...#..#.
+      .#...####.
+      .##.##....
+      ..........
 
+[.]
+name = grass1
+tile = 0, 0
+
+[#]
+name = water1
+tile = 0, 1
